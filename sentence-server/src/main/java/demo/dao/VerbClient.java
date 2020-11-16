@@ -5,8 +5,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 import demo.domain.Word;
 
-@FeignClient("NOUN")
-public interface NounClient {
+@FeignClient("VERB")
+public interface VerbClient {
 
 	@GetMapping("/")
 	Word getWord();
