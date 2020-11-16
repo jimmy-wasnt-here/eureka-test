@@ -32,5 +32,5 @@ words: boat,book,vote,seat,backpack,partition,groundhog
   
 ---
 wordConfig:
-  luckyWord: UnaPalabraSuertuda
+  luckyWord: UnaPalabraSuertudaAlterada
   preamble: ElPreambuloEs
